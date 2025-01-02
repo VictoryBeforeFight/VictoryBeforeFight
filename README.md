@@ -1,6 +1,6 @@
 # I'm Victorier 😎
 # :mailbox_with_mail: Contacts
-name : Cheong </b>
+name : Cheong </br>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:clearblue0212@gmail.com)](mailto:clearblue0212@gmail.com)
 
 
@@ -14,7 +14,7 @@ name : Cheong </b>
 # 💪Skills
 ### Platforms & Languages
 [![My Skills](https://skillicons.dev/icons?i=python,pycharm,pytorch,selenium,sklearn,anaconda,matlab)](https://skillicons.dev)
-### 
+### server
 [![My Skills](https://skillicons.dev/icons?i=docker,flask)](https://skillicons.dev)
 ### Tools
 [![My Skills](https://skillicons.dev/icons?i=notion,github,figma)](https://skillicons.dev)
