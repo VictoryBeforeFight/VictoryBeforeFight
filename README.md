@@ -1,6 +1,4 @@
 # I'm Victorier 😎
-# :mailbox_with_mail: Contacts
-name : Cheong </br>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:clearblue0212@gmail.com)](mailto:clearblue0212@gmail.com)
 
 
