@@ -6,6 +6,8 @@
 ![Victorier's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictoryBeforeFight&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=Victorier)](https://solved.ac/clock1998/)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictoryBeforeFight&layout=compact)
+
 # 💪Skills
 ### Platforms & Languages
 [![My Skills](https://skillicons.dev/icons?i=python,pycharm,pytorch,selenium,sklearn,anaconda,matlab)](https://skillicons.dev)
