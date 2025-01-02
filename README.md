@@ -1,5 +1,7 @@
 # I'm Victorier 😎
-
+# :mailbox_with_mail: Contacts
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:clearblue0212@gmail.com)](mailto:clearblue0212@gmail.com)
+---
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fclearblue0212&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23FF0000&title=Victorier&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -15,9 +17,3 @@
 [![My Skills](https://skillicons.dev/icons?i=docker,flask)](https://skillicons.dev)
 ### Tools
 [![My Skills](https://skillicons.dev/icons?i=notion,github,figma)](https://skillicons.dev)
-
-
-
- 
-# :mailbox_with_mail: Contacts
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:clearblue0212@gmail.com)](mailto:clearblue0212@gmail.com)
