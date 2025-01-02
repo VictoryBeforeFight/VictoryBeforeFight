@@ -1,16 +1,21 @@
-## Hi there 👋
+# I'm Victorier 😎
 
-<!--
-**VictoryBeforeFight/VictoryBeforeFight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnowoclock&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23FF0000&title=CLOCK&edge_flat=false)](https://hits.seeyoufarm.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Victorier's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictoryBeforeFight&show_icons=true&theme=radical)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=Victorier)](https://solved.ac/clock1998/)
+
+# 💪Skills
+### Platforms & Languages
+[![My Skills](https://skillicons.dev/icons?i=python,pycharm,pytorch,selenium,sklearn,anaconda,matlab)](https://skillicons.dev)
+### 
+[![My Skills](https://skillicons.dev/icons?i=docker,flask)](https://skillicons.dev)
+### Tools
+[![My Skills](https://skillicons.dev/icons?i=notion,github,figma)](https://skillicons.dev)
+
+
+
+ 
+# :mailbox_with_mail: Contacts
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:clearblue0212@gmail.com)](mailto:clearblue0212@gmail.com)
